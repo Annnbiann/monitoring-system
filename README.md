@@ -1,6 +1,4 @@
-# comp639-2023-s1-project2-group16
-
-# comp639-2023-s1-project2-group16
+# comp639-
 
 ## Project Details
 Project name:	LU Postgraduate Monitoring System
